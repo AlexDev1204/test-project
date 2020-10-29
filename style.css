@@ -6,3 +6,7 @@ section {
   height: 300px;
   background-color: blueviolet;
 }
+#next {
+  height: 200px;
+  background-color: brown;
+}
